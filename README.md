@@ -4,7 +4,7 @@
 - 📄 Meu nome é <b>Eduardo</b>, tenho 20 anos.
 - 📍 Moro em <b>Foz do Iguaçu, Paraná - Brasil</b>.
 - 💻 Sou estudante do terceiro ano de ciência da computação da <b>Unioeste</b>.
-- 🎮 Meu hobby preferido é jogar, meu jogo preferido é <b>Stardew Valley</b>
+- 🎮 Meu hobby preferido é jogar e ler. Meu livro preferido é <b>O guia do mochileiro</b>
 <br>
 
 <div>
