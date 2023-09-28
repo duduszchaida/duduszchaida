@@ -1,9 +1,9 @@
 <h2>🐟 Olá, fique a vontade para olhar meu perfil 🐟</h2>
 
 
-- 📄 Meu nome é <b>Eduardo</b>, tenho 21 anos.
+- 📄 Meu nome é <b>Eduardo</b>, tenho 22 anos.
 - 📍 Moro em <b>Foz do Iguaçu, Paraná - Brasil</b>.
-- 💻 Sou estudante do terceiro ano de ciência da computação da <b>Unioeste</b>.
+- 💻 Sou estudante do segundo semeste de Análise e desenvolvimento de sistemas no <b>IFPR</b>.
 - 🎮 Meu hobby preferido é jogar e ler. Atualmente, o meu livro preferido é <b>O guia do mochileiro</b>
 <br>
 
