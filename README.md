@@ -4,7 +4,7 @@
 - 📄 Meu nome é <b>Eduardo</b>, tenho 22 anos.
 - 📍 Moro em <b>Foz do Iguaçu, Paraná - Brasil</b>.
 - 💻 Sou estudante do segundo semeste de Análise e desenvolvimento de sistemas no <b>IFPR</b>.
-- 🎮 Meu hobby preferido é jogar e ler. Tenho uma paixão pelos livros de Tolkien. <b>Tolkien</b>
+- 🎮 Meu hobby preferido é jogar e ler. Tenho uma paixão pelos livros de Tolkien. 
 <br>
 
 <div>
